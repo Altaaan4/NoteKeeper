@@ -17,3 +17,4 @@ NoteKeeper is a simple and useful note-taking app where you can add, edit, and d
 3. Click the "..." button on the note cards to edit or delete the note.
 
 ## Preview
+![Image](https://github.com/user-attachments/assets/47c5e9ce-5de4-46cf-a82e-638a2778b547)
